@@ -88,6 +88,6 @@ This repository demonstrates a Retrieval-Augmented Generation (RAG) approach for
 
 ## Contact
 
-- For questions or support, please open an issue in the repository or contact [your.email@example.com](mailto:your.email@example.com).
+- For questions or support, please open an issue in the repository or contact [yash.nayi9624@gmail.com](mailto:yash.nayi9624@gmail.com).
 
 
