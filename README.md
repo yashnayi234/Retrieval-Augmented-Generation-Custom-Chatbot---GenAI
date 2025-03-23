@@ -34,8 +34,8 @@ This repository demonstrates a Retrieval-Augmented Generation (RAG) approach for
 1. **Clone the Repository:**
 
    ```bash
-   git clone <https://github.com/yashnayi234/Retrieval-Augmented-Generation-Custom-Chatbot---GenAI.git>
-   cd <https://github.com/yashnayi234/Retrieval-Augmented-Generation-Custom-Chatbot---GenAI>
+   git clone https://github.com/yashnayi234/Retrieval-Augmented-Generation-Custom-Chatbot---GenAI.git
+   cd https://github.com/yashnayi234/Retrieval-Augmented-Generation-Custom-Chatbot---GenAI
 
 
   ```bash
